@@ -1,5 +1,3 @@
-### Hakkımda
-
 # 💫 About Me:
 Yazılım mühendisi olarak, yeniliğe ve öğrenmeye açık biriyim. Backend alanında ilgiliyim ve kendimi bu alanda geliştirmek istiyorum. Hızlı öğrenir, öğrendiklerimi kolayca uygulayabilirim. Veri tabanı yönetimi, API geliştirme gibi konulara hakimim. Analitik düşünme becerilerim ve sorunları çözme yeteneğim sayesinde karmaşık projelerde sorumluluk alır ve üstesinden gelirim.
 
